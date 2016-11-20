@@ -7,6 +7,7 @@ public class ExamVariousArray {
 		Scanner s = new Scanner(System.in);
 		int input=0;
 		
+		
 		while(input !=6){
 			System.out.println("*********************");
 			System.out.println("배열 사용하기");
